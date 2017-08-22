@@ -7,6 +7,6 @@ On GitHub
 In Terminal 
 
 ```bash
-git clone ...
+git clone <your forked repo>
 cd morse_translator
 ```
